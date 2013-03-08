@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Bytt passord også i grub!!"
+
+chpasswd

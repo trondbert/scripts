@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cp $1 ~/.gvfs/prosjekter\ on\ slffilserver/Steria\ vedlikehold/TRV/
+

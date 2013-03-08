@@ -1,0 +1,8 @@
+#!/bin/sh
+
+google-chrome
+subl
+firefox
+idea
+terminator
+

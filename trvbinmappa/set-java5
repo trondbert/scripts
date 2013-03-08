@@ -1,0 +1,7 @@
+#!/bin/sh
+alias  java=/usr/local/java/jdk1.5.0_22/bin/java
+alias javac=/usr/local/java/jdk1.5.0_22/bin/javac
+JAVA_HOME=/usr/local/java/jdk1.5.0_22
+echo "JAVA_HOME: $JAVA_HOME"
+echo "java -version:"
+java -version
